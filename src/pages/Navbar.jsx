@@ -14,7 +14,7 @@ function Navbar() {
                 <li class="nav-item mx-3"><a class="nav-link text-light fw-bold" href="#video">Video</a></li>
                 <li class="nav-item mx-3"><a class="nav-link text-light fw-bold" href="#product">Product</a></li>
                 <li class="nav-item mx-3"><a class="nav-link text-light fw-bold" href="#information">Details</a></li>
-                <li class="nav-item mx-3"><a class="nav-link text-light fw-bold" href="#Adaption">Adoption</a></li>
+                <li class="nav-item mx-3"><a class="nav-link text-light fw-bold" href="#Adoption">Adoption</a></li>
                 <li class="nav-item mx-3"><a class="nav-link text-light fw-bold" href="#Service">Services</a></li>
                 <li class="nav-item mx-3"><a class="nav-link text-light fw-bold" href="#contact">Contact</a></li>
             </ul>
@@ -37,7 +37,7 @@ function Navbar() {
                     <li class="nav-item"><a class="nav-link text-light" href="#video">Video</a></li>
                     <li class="nav-item"><a class="nav-link text-light" href="#product">Product</a></li>
                     <li class="nav-item"><a class="nav-link text-light" href="#information">Details</a></li>
-                    <li class="nav-item"><a class="nav-link text-light" href="#Adaption">Adoption</a></li>
+                    <li class="nav-item"><a class="nav-link text-light" href="#Adoption">Adoption</a></li>
                     <li class="nav-item"><a class="nav-link text-light" href="#Service">Services</a></li>
                     <li class="nav-item"><a class="nav-link text-light" href="#contact">Contact</a></li>
                     </ul>

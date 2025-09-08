@@ -3,20 +3,20 @@ import Pawicon from '../icon/veterinarian.png'
 
 function ProductCard() {
 const pets = [
-  { id: 1, title: "ChonkDoggo", desc: "Available", price: "$399.99", img: "src/allimg/dog.jpg" },
-  { id: 2, title: "MyChemicalDogmance", desc: "Available", price: "$299.99", img: "src/allimg/dogfive.png" },
-  { id: 3, title: "Sir Bark-a-lot", desc: "Available", price: "$288.99", img: "src/allimg/dogla.png" },
-  { id: 4, title: "Chilluminati", desc: "Available", price: "$234.99", img: "src/allimg/dogg.png" },
+  { id: 1, title: "ChonkDoggo", desc: "Available", price: "$399.99", img: "/image/dog.jpg" },
+  { id: 2, title: "MyChemicalDogmance", desc: "Available", price: "$299.99", img: "/image/dogfive.png" },
+  { id: 3, title: "Sir Bark-a-lot", desc: "Available", price: "$288.99", img: "/image/dogg.png" },
+  { id: 4, title: "Chilluminati", desc: "Available", price: "$234.99", img: "/image/dogla.png" },
   
-  { id: 5, title: "Builder Bunbun", desc: "Available", price: "$14.99", img: "src/allimg/ham1.png" },
-  { id: 6, title: "Chipster", desc: "Available", price: "$16.99", img: "src/allimg/ham2.png" },
-  { id: 7, title: "Sir Nibbles", desc: "Available", price: "$14.99", img: "src/allimg/ham3.png" },
-  { id: 8, title: "Sweet Tooth", desc: "Available", price: "$18.99", img: "src/allimg/ham4.png" },
+  { id: 5, title: "Builder Bunbun", desc: "Available", price: "$14.99", img: "/image/ham1.png" },
+  { id: 6, title: "Chipster", desc: "Available", price: "$16.99", img: "/image/ham2.png" },
+  { id: 7, title: "Sir Nibbles", desc: "Available", price: "$14.99", img: "/image/ham3.png" },
+  { id: 8, title: "Sweet Tooth", desc: "Available", price: "$18.99", img: "/image/ham4.png" },
   
-  { id: 9, title: "Chubby Cheeks", desc: "Available", price: "$289.99", img: "src/allimg/marmot1.png" },
-  { id: 10, title: "Double Trouble", desc: "Available", price: "$289.99", img: "src/allimg/marmot2.png" },
-  { id: 11, title: "Mr. Whiskers", desc: "Available", price: "$199.99", img: "src/allimg/marmot3.png" },
-  { id: 12, title: "Cool Cheeks", desc: "Available", price: "$234.99", img: "src/allimg/marmot4.png" },
+  { id: 9, title: "Chubby Cheeks", desc: "Available", price: "$289.99", img: "/image/marmot1.png" },
+  { id: 10, title: "Double Trouble", desc: "Available", price: "$289.99", img: "/image/marmot2.png" },
+  { id: 11, title: "Mr. Whiskers", desc: "Available", price: "$199.99", img: "/image/marmot3.png" },
+  { id: 12, title: "Cool Cheeks", desc: "Available", price: "$234.99", img: "/image/marmot4.png" },
 ];
 
 
